@@ -18,8 +18,8 @@ What You'll Find Here
 
 Let's Connect
 
-- 📧 Email: velpradeep.vp1@gmail.com
-- 💼 LinkedIn: [Pradeep Vel](in/pradeep-vel-8b759a227)
+- 📧 Email: [Pradeep Velmurugan]velpradeep.vp1@gmail.com
+- 💼 LinkedIn: [Pradeep Vel](https://www.linkedin.com/in/pradeep-vel-8b759a227/)
 
 Feel free to explore my projects, reach out for collaborations, or just say hi! 👋
 
